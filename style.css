@@ -1,0 +1,13 @@
+#video {
+    width: 1370px;
+    height: 500px;
+}
+
+body {
+    text-align: center;
+}
+
+
+.anouncement {
+    background-color: blue;
+}
